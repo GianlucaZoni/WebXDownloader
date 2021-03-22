@@ -1,3 +1,5 @@
+*Read this in other languages: [English](README.md), [Italiano](README.it.md).*
+
 # WebXDownloader
 
 This is a browser extension that helps downloading Webex meeting recordings. It adds a button to the video playback controls that enables downloading of the recording in mp4 format. It also provides the direct URL to the HSL stream and allows the chat transcript to be saved in JSON or plain text format.
